@@ -70,7 +70,7 @@ php artisan db:seed
 php artisan serve --port=8000
 ```
 
-Le backend sera accessible sur `http://localhost:8000`
+Le backend sera accessible sur `http://localhost:8001`
 
 ### Frontend
 
